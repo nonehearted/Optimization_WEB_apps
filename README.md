@@ -8,3 +8,4 @@
 # Лабораторные работы
 [Первая лабораторная работа по оптимизации Web приложений](https://github.com/nonehearted/Optimization_WEB_apps/blob/main/%D0%9B%D0%90%D0%91%D0%9E%D0%A0%D0%90%D0%A2%D0%9E%D0%A0%D0%9D%D0%90%D0%AF%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90%20%E2%84%961.pdf)
 # Домашние задания
+[Дз ГОСТ 19 и 34](https://github.com/nonehearted/Optimization_WEB_apps/blob/main/%D0%93%D0%9E%D0%A1%D0%A2%2019%20%D0%B8%20%D0%93%D0%9E%D0%A1%D0%A2%2034.md)

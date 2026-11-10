@@ -15,3 +15,5 @@
 [Четвертая лабораторная работа](https://github.com/nonehearted/Optimization_WEB_apps/blob/main/lr4.md)
 # Домашние задания
 [Дз ГОСТ 19 и 34](https://github.com/nonehearted/Optimization_WEB_apps/blob/main/%D0%93%D0%9E%D0%A1%D0%A2%2019%20%D0%B8%20%D0%93%D0%9E%D0%A1%D0%A2%2034.md)
+
+# Учебная практика

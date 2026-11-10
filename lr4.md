@@ -96,7 +96,7 @@ Disallow: /checkout/
 Disallow: /search/
 Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
 
-Host: [(https://github.com/PolinaShavrina/dents/)](https://github.com/PolinaShavrina/dents/)
+Host: [(https://github.com/nonehearted/dents/)](https://github.com/nonehearted/dents/)
 
 # Googlebot
 User-agent: Googlebot
@@ -106,7 +106,7 @@ Disallow: /cart/
 Disallow: /checkout/
 Disallow: /search/
 
-Sitemap: https://github.com/PolinaShavrina/dents/blob/master/sitemap.xml
+Sitemap: https://github.com/nonehearted/dents/blob/master/sitemap.xml
 ```
 
 **Пояснения к директивам:**
@@ -124,67 +124,67 @@ Sitemap: https://github.com/PolinaShavrina/dents/blob/master/sitemap.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://polinashavrina.github.io/dents/</loc>
+    <loc>https://nonehearted.github.io/dents/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/implantation/</loc>
+    <loc>https://nonehearted.github.io/dents/implantation/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/treatment/</loc>
+    <loc>https://nonehearted.github.io/dents/treatment/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/whitening/</loc>
+    <loc>https://nonehearted.github.io/dents/whitening/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/orthodontics/</loc>
+    <loc>https://nonehearted.github.io/dents/orthodontics/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/children/</loc>
+    <loc>https://nonehearted.github.io/dents/children/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/prosthetics/</loc>
+    <loc>https://nonehearted.github.io/dents/prosthetics/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents//blog/</loc>
+    <loc>https://nonehearted.github.io/dents//blog/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/blog/kak-uhazhivat/</loc>
+    <loc>https://nonehearted.github.io/dents/blog/kak-uhazhivat/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/blog/pochemu-bolyat/</loc>
+    <loc>https://nonehearted.github.io/dents/blog/pochemu-bolyat/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://polinashavrina.github.io/dents/contacts/</loc>
+    <loc>https://nonehearted.github.io/dents/contacts/</loc>
     <lastmod>2025-01-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
